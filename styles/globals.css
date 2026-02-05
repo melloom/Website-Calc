@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Safe area support for mobile notches */
+:root {
+  --safe-area-inset-top: env(safe-area-inset-top, 0);
+  --safe-area-inset-right: env(safe-area-inset-right, 0);
+  --safe-area-inset-bottom: env(safe-area-inset-bottom, 0);
+  --safe-area-inset-left: env(safe-area-inset-left, 0);
+}
+
+/* Apply safe area padding to main layout elements */
+body {
+  padding-top: var(--safe-area-inset-top);
+  padding-left: var(--safe-area-inset-left);
+  padding-right: var(--safe-area-inset-right);
+}
+
+/* Padding for fixed cost summary widget */
+@media (max-width: 767px) {
+  body {
+    padding-bottom: calc(80px + var(--safe-area-inset-bottom));
+  }
+}
+/* Desktop: only when widget is visible (step pages) */
+@media (min-width: 768px) {
+  body.has-cost-widget {
+    padding-bottom: 80px;
+  }
+}
+
+/* Additional safe area support for fixed elements */
+.fixed,
+.sticky,
+.absolute {
+  padding-left: var(--safe-area-inset-left);
+  padding-right: var(--safe-area-inset-right);
+}
+
+/* PWA specific safe area adjustments */
+@media (display-mode: standalone) {
+  body {
+    padding-top: var(--safe-area-inset-top);
+  }
+  
+  /* Extra padding for PWA status bar */
+  .mobile-cost-summary {
+    padding-bottom: var(--safe-area-inset-bottom);
+  }
+  
+  /* Solid background for PWA safe area below widget - same color as widget */
+  body::after {
+    content: '';
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: var(--safe-area-inset-bottom);
+    background: linear-gradient(to right, #1e40af, #3730a3); /* Same as widget gradient */
+    z-index: 9999;
+    pointer-events: none;
+  }
+  
+  /* Alternative for mobile devices */
+  @media (max-width: 767px) {
+    body {
+      background: linear-gradient(to bottom, 
+        rgba(59, 130, 246, 0.05) 0%, 
+        white 50%, 
+        white calc(100% - 80px - var(--safe-area-inset-bottom)), 
+        white 100%
+      );
+    }
+  }
+  
+  /* Fix cookie popup positioning - raise it above safe area */
+  .cookie-consent {
+    bottom: calc(20px + var(--safe-area-inset-bottom)) !important;
+  }
+}
+
+/* Hide scrollbars while keeping scrollability */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Safari and Chrome */
+}
+
+.scrollbar-hide::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-hide::-webkit-scrollbar-thumb {
+  background: transparent;
+}

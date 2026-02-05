@@ -1,0 +1,397 @@
+========================================
+         MELLOW WEBSITE CALCULATOR PRICES
+========================================
+
+Generated: February 4, 2026
+Last Updated: Current Implementation
+
+========================================
+BUDGET BUNDLES (Single & Multi Page)
+========================================
+
+Single Page:
+$400 Starter One-Pager
+$600 Essential Website
+
+Multi Page:
+$1,199 Starter Multi-Page Site
+$1,799 Essential Multi-Page Site
+├── Single Clean Page
+├── Mobile Responsive Design  
+├── Fast Loading
+├── Contact or Call Button
+├── 1 Round of Revisions
+└── Basic SEO Setup
+
+$600 Essential Website  
+├── Single Professional Page
+├── Mobile Responsive Design
+├── Fast Loading
+├── Contact Form with Database Storage
+├── Email Notifications on Form Submission
+├── Optional CSV Reports
+├── Spam Protection
+├── Light Backend Admin
+├── About Section
+├── Services/Products Section
+├── 1 Round of Revisions
+└── Basic SEO Setup
+
+BUDGET ADD-ONS (Simple Pricing)
+├── Logo Design: $50
+├── Favicon Design: $25
+├── Social Media Setup: $25
+└── Extra Revision: $25
+
+========================================
+REGULAR BUNDLES - SINGLE PAGE
+========================================
+
+BUSINESS BUNDLES
+├── Business Starter: $600
+├── Business Professional: $1,199
+└── Business Premium: $1,999
+
+PORTFOLIO BUNDLES
+├── Creative Portfolio: $600
+├── Professional Portfolio: $1,199
+└── Premium Portfolio: $1,999
+
+BLOG BUNDLES
+├── Personal Blog: $500
+├── Content Blog: $1,199
+└── Premium Blog: $1,999
+
+LANDING PAGE BUNDLES
+├── Conversion Landing: $399
+├── Marketing Landing: $800
+└── Premium Landing: $1,999
+
+PRODUCT BUNDLES
+├── Product Showcase: $700
+├── Product Launch: $1,299
+└── Product Premium: $1,999
+
+CUSTOM BUNDLES
+├── Tailored Solution: $800
+├── Bespoke Solution: $1,999
+└── Custom Premium: $4,999
+
+RESTAURANT BUNDLES
+├── Restaurant Starter: $700
+├── Restaurant Professional: $1,399
+└── Restaurant Premium: $1,999
+
+========================================
+REGULAR BUNDLES - MULTI PAGE
+========================================
+
+BUSINESS MULTI-PAGE
+├── Business Starter Site: $600
+├── Business Professional Site: $1,199
+└── Business Premium Site: $1,999
+
+PORTFOLIO MULTI-PAGE
+├── Creative Portfolio Site: $1,499
+├── Professional Portfolio Site: $2,499
+└── Premium Portfolio Site: $3,999
+
+ECOMMERCE MULTI-PAGE
+├── Basic E-commerce Site: $2,999
+├── Professional E-commerce Site: $4,999
+└── Premium E-commerce Site: $7,999
+
+BLOG MULTI-PAGE
+├── Personal Blog Site: $1,499
+├── Professional Blog Site: $2,499
+└── Premium Blog Site: $3,999
+
+LANDING MULTI-PAGE
+├── Campaign Site: $1,199
+├── Marketing Site: $1,999
+└── Premium Landing Site: $4,999
+
+PRODUCT MULTI-PAGE
+├── Product Showcase Site: $1,699
+├── Product Launch Site: $2,999
+└── Product Premium Site: $4,999
+
+CUSTOM MULTI-PAGE
+├── Tailored Multi-Page Site: $1,999
+├── Bespoke Multi-Page Site: $3,999
+└── Custom Premium Site: $7,999
+
+========================================
+INDIVIDUAL FEATURES & COMPONENTS
+========================================
+
+BACKEND OPTIONS
+├── Basic Authentication: $250
+├── Auth & Storage: $400
+├── API Backend: $600
+├── Secure System: $600
+├── Complete System: $800
+├── Content Management (CMS): $500
+├── E-commerce Backend: $900
+└── Custom Backend: $1,200
+
+AI FEATURES
+├── AI Chatbot: $250
+├── AI Content Generation: $300
+├── AI Analytics: $300
+├── AI Personalization: $400
+├── AI Automation: $400
+└── AI Assistant: $500
+
+AUTOMATION FEATURES
+├── Email Notifications: $100
+├── Auto Responder: $150
+├── Social Integration: $200
+├── Lead Capture: $200
+├── Analytics Integration: $150
+├── CRM Integration: $300
+├── Workflow Automation: $350
+├── Form Automation: $150
+├── Reports: $150
+├── Data Sync: $200
+└── API Integration: $300
+
+STORE/E-COMMERCE FEATURES
+├── Basic Products: $100
+├── Shopping Cart: $200
+├── Payment Processing: $150
+├── Order Management: $250
+├── Inventory Tracking: $250
+├── Shipping Calculator: $150
+├── Customer Accounts (Basic): $200
+├── Tax Calculator: $120
+├── Discount & Coupons: $150
+├── Product Reviews: $150
+├── Email Notifications: $120
+├── Analytics Dashboard: $200
+├── Wishlist & Favorites: $120
+├── Product Comparisons: $150
+├── Quick View Modal: $100
+├── Related Products: $150
+├── Order Tracking Portal: $150
+├── Refund Management: $150
+├── Bulk Orders: $200
+├── Gift Cards: $150
+├── Subscription Products: $300
+├── Inventory Management (Advanced): $500
+└── Customer Accounts (Advanced): $350
+
+SECTIONS/PAGES (Category-Specific Pricing)
+├── About: $100
+├── Services: $150
+├── Portfolio: $200
+├── Testimonials: $100
+├── FAQ: $75
+├── Team: $150
+├── Pricing: $100
+├── Gallery: $125
+├── Case Studies: $200
+├── Clientele: $100
+├── Product Demo: $200
+├── Traction & Metrics: $150
+├── Menu: $300
+├── Reservations: $400
+├── Online Ordering: $500
+├── Events: $300
+├── Location & Hours: $150
+├── Blog Setup: $300
+├── Collections: $300
+├── Skills: $200
+├── How It Works: $100
+├── Newsletter: $200
+├── Call-to-Action: $100
+├── Video Section: $150
+├── Partners & Clients: $150
+├── Features: $250
+├── Reviews: $200
+├── Blog Preview: $250
+├── Daily Specials: $200
+├── Meet the Chef: $250
+├── Gift Cards: $300
+├── Location Map: $75
+├── Hero Section: $0 (Included)
+├── Contact Section: $0 (Included)
+└── Category-Specific Sections: $50-$500
+
+========================================
+ADD-ONS & SERVICES
+========================================
+
+MONTHLY RECURRING SERVICES
+├── SEO: $199/month
+├── Content Writing: $149/month
+├── Social Media: $199/month
+├── Email Marketing: $129/month
+├── Maintenance: $79/month
+├── Analytics: $149/month
+├── Security: $59/month
+├── Speed Optimization: $99/month
+└── Full Care Plan: $199/month
+
+ONE-TIME SERVICES
+├── Social Media Setup: $250
+├── Logo Design: $450
+├── Complete Branding Package: $899
+├── Website Hosting Setup: $100
+├── Domain Registration: $25
+├── Email Marketing Setup: $300
+├── Google Ads Setup: $450
+├── Facebook Ads Setup: $400
+├── Video Production: $800
+├── Professional Photography: $650
+├── Professional Copywriting: $300
+├── Translation Services: $250
+├── Accessibility Audit: $400
+├── Performance Optimization: $350
+└── Security Audit: $450
+
+========================================
+HOSTING & MAINTENANCE
+========================================
+
+HOSTING (MONTHLY)
+├── Basic: $25/month
+├── Standard: $45/month
+├── Professional: $65/month
+├── Enterprise: $95/month
+
+BUDGET BUNDLE HOSTING:
+├── Budget Starter: $25/month (Basic Hosting)
+├── Budget Essential: $50/month ($25 Basic Hosting + $25 Backend & Automation)
+└── Enterprise: $89/month
+
+MAINTENANCE (MONTHLY)
+├── None: $0/month
+├── Basic: $79/month
+├── Professional: $149/month
+└── Enterprise: $299/month
+
+========================================
+CATEGORY-SPECIFIC BASE COSTS
+========================================
+
+SINGLE-PAGE BASE COSTS
+├── Business: $600–$800
+├── Portfolio: $500–$600
+├── Blog: $400–$500
+├── Landing: $300–$400
+├── Product: $500–$700
+├── Custom: $700–$1,000
+└── Restaurant: $600–$800
+
+MULTI-PAGE BASE COSTS
+├── Business: $1,799–$4,499
+├── Portfolio: $1,499–$3,999
+├── E-commerce: $2,999–$7,999
+├── Blog: $1,499–$3,999
+├── Landing: $1,199–$4,999
+├── Product: $1,699–$4,999
+└── Custom: $1,999–$7,999
+
+========================================
+SUBCATEGORY-SPECIFIC COSTS (SINGLE PAGE)
+========================================
+
+BUSINESS
+├── Restaurant: $700
+├── Consulting: $600
+├── Retail: $650
+├── Healthcare: $800
+├── Tech: $750
+├── Service: $550
+├── Customer Service: $500
+└── Customer Portal: $900
+
+PORTFOLIO
+├── Photographer: $500
+├── Designer: $550
+├── Developer: $500
+├── Artist: $450
+├── Architect: $600
+└── Writer: $400
+
+BLOG
+├── Personal: $400
+├── Business: $500
+├── Travel: $450
+├── Food: $450
+├── Tech: $500
+└── Lifestyle: $400
+
+LANDING
+├── Product: $350
+├── Event: $400
+├── App: $300
+├── Service: $350
+├── Newsletter: $250
+└── Campaign: $450
+
+PRODUCT
+├── SaaS: $600
+├── Physical: $500
+├── Digital: $450
+├── Mobile: $550
+├── Service: $500
+└── Subscription: $550
+
+CUSTOM
+├── Nonprofit: $600
+├── Education: $700
+├── Community: $650
+├── Directory: $550
+├── Membership: $750
+├── Customer Platform: $1,800
+└── Other: $800
+
+========================================
+SUMMARY
+========================================
+
+LOWEST PRICES:
+├── Budget Starter: $400
+├── Landing Conversion: $399
+├── Blog Personal: $500
+├── Portfolio Creative: $600
+└── Social Media Setup: $25
+
+HIGHEST PRICES:
+├── Custom Premium (Multi): $7,999
+├── E-commerce Premium: $7,999
+├── Business Premium (Multi): $4,999
+├── Portfolio Premium (Multi): $3,999
+└── Complete Branding Package: $1,200
+
+BUDGET-FRIENDLY OPTIONS:
+├── Budget Bundles: $400-$1,799
+├── Simple Add-ons: $25-$50
+├── Basic Hosting: $25/month
+└── Basic Maintenance: $79/month
+
+PREMIUM OPTIONS:
+├── Enterprise Bundles: $4,999-$7,999
+├── Custom Solutions: $1,999-$4,999
+├── Advanced Backend: $800-$1,200
+└── Enterprise Hosting: $89/month
+
+========================================
+PRICING STRATEGY NOTES
+========================================
+
+• Budget bundles provide simple, affordable options with fast delivery
+• Regular bundles offer comprehensive features with professional support
+• Add-ons allow customization without complexity
+• Monthly services provide ongoing support and maintenance
+• Enterprise solutions include advanced features and priority support
+• All prices are one-time unless marked as monthly recurring
+• Bundle pricing is more economical than à la carte options
+• Budget bundles skip intermediate steps for faster quotes
+
+For the most current pricing, check the live calculator at:
+http://localhost:3000
+
+========================================

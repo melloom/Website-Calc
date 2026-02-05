@@ -1,0 +1,26 @@
+{
+  "name": "website-calculator",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "./start-clean.sh",
+    "dev:clean": "./start-clean.sh",
+    "dev:raw": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^67.0.3372",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.1.0",
+    "next": "latest",
+    "nodemailer": "^7.0.13",
+    "puppeteer-core": "^24.36.1",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.0"
+  }
+}
