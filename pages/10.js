@@ -617,14 +617,14 @@ export default function Step12() {
         id: 'website-maintenance',
         name: 'Website Maintenance',
         description: 'Ongoing website maintenance and support services',
-        price: '+$79',
+        price: '+$50',
         features: ['Security Updates', 'Performance Monitoring', 'Bug Fixes', 'Content Updates', 'Backup Management', 'Uptime Monitoring', 'Technical Support'],
         recurring: true,
         isPrimarilyOneTime: false, // This is primarily a monthly service
         hasToggle: true,
         toggleOptions: {
-          monthly: { price: '+$79', label: 'Monthly Maintenance' },
-          onetime: { price: '+$239', label: 'Initial Setup Only' }
+          monthly: { price: '+$50', label: 'Monthly Maintenance' },
+          onetime: { price: '+$150', label: 'Initial Setup Only' }
         }
       },
       {

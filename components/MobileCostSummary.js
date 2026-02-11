@@ -104,7 +104,7 @@ const addonCostMap = {
   'content-writing': { name: 'Content Writing', cost: 149, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$149' }, onetime: { price: '+$449' } } },
   'social-media-management': { name: 'Social Media', cost: 199, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$199' }, onetime: { price: '+$599' } } },
   'email-marketing': { name: 'Email Marketing', cost: 129, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$129' }, onetime: { price: '+$389' } } },
-  'website-maintenance': { name: 'Maintenance', cost: 79, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$79' }, onetime: { price: '+$239' } } },
+  'website-maintenance': { name: 'Maintenance', cost: 50, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$50' }, onetime: { price: '+$150' } } },
   'analytics-setup': { name: 'Analytics', cost: 149 },
   'security-package': { name: 'Security', cost: 59 },
   'speed-optimization': { name: 'Speed Optimization', cost: 99 },
@@ -192,20 +192,20 @@ const storeCostMap = {
 
 const hostingCostMap = {
   'basic': { name: 'Basic Hosting', monthly: 25 },
-  'standard': { name: 'Standard Hosting', monthly: 45 },
-  'professional': { name: 'Professional Hosting', monthly: 65 },
-  'enterprise': { name: 'Enterprise Hosting', monthly: 95 },
-  'basic-hosting': { name: 'Basic Hosting', monthly: 50 },
-  'standard-hosting': { name: 'Standard Hosting', monthly: 45 },
-  'professional-hosting': { name: 'Professional Hosting', monthly: 65 },
-  'enterprise-hosting': { name: 'Enterprise Hosting', monthly: 95 }
+  'standard': { name: 'Standard Hosting', monthly: 50 },
+  'professional': { name: 'Professional Hosting', monthly: 75 },
+  'enterprise': { name: 'Enterprise Hosting', monthly: 125 },
+  'basic-hosting': { name: 'Basic Hosting', monthly: 25 },
+  'standard-hosting': { name: 'Standard Hosting', monthly: 50 },
+  'professional-hosting': { name: 'Professional Hosting', monthly: 75 },
+  'enterprise-hosting': { name: 'Enterprise Hosting', monthly: 125 }
 };
 
 const maintenanceCostMap = {
   'no-maintenance': { name: 'No Maintenance', monthly: 0 },
-  'basic-maintenance': { name: 'Basic Maintenance', monthly: 79 },
-  'professional-maintenance': { name: 'Professional Maintenance', monthly: 149 },
-  'enterprise-maintenance': { name: 'Enterprise Maintenance', monthly: 299 }
+  'basic-maintenance': { name: 'Basic Maintenance', monthly: 50 },
+  'professional-maintenance': { name: 'Professional Maintenance', monthly: 100 },
+  'enterprise-maintenance': { name: 'Enterprise Maintenance', monthly: 200 }
 };
 
 const bundlePrices = {

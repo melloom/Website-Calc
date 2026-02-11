@@ -87,7 +87,7 @@ const addonCostMap = {
   'content-writing': { name: 'Content Writing', cost: 149, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$149' }, onetime: { price: '+$449' } } },
   'social-media-management': { name: 'Social Media', cost: 199, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$199' }, onetime: { price: '+$599' } } },
   'email-marketing': { name: 'Email Marketing', cost: 129, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$129' }, onetime: { price: '+$389' } } },
-  'website-maintenance': { name: 'Maintenance', cost: 79, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$79' }, onetime: { price: '+$239' } } },
+  'website-maintenance': { name: 'Maintenance', cost: 50, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$50' }, onetime: { price: '+$150' } } },
   'analytics-setup': { name: 'Analytics', cost: 149, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$149' }, onetime: { price: '+$449' } } },
   'security-package': { name: 'Security', cost: 59, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$59' }, onetime: { price: '+$179' } } },
   'speed-optimization': { name: 'Speed Optimization', cost: 99, recurring: true, hasToggle: true, toggleOptions: { monthly: { price: '+$99' }, onetime: { price: '+$299' } } },

@@ -121,7 +121,7 @@ export default function Step11() {
         id: 'basic-hosting',
         name: 'Basic Hosting',
         description: 'Essential managed hosting for small business sites',
-        price: '+$19/month',
+        price: '+$25/month',
         features: ['20GB SSD Storage', '500GB Bandwidth', '1 Website', '10 Email Accounts', 'Weekly Backups', 'SSL Certificate', 'Managed Updates', '99.9% Uptime'],
         popular: false
       },
@@ -129,7 +129,7 @@ export default function Step11() {
         id: 'standard-hosting',
         name: 'Standard Hosting',
         description: 'Enhanced hosting for growing websites',
-        price: '+$39/month',
+        price: '+$50/month',
         features: ['50GB SSD Storage', '1TB Bandwidth', 'Up to 3 Websites', '50 Email Accounts', 'Daily Backups', 'SSL Certificate', 'CDN Included', '99.9% Uptime'],
         popular: true
       },
@@ -137,7 +137,7 @@ export default function Step11() {
         id: 'professional-hosting',
         name: 'Professional Hosting',
         description: 'Optimized for growing brands with higher traffic',
-        price: '+$59/month',
+        price: '+$75/month',
         features: ['100GB SSD Storage', '2TB Bandwidth', 'Up to 5 Websites', 'Unlimited Email', 'Daily Backups', 'CDN Included', 'Staging Environment', 'Priority Support', '99.95% Uptime'],
         popular: false
       },
@@ -145,7 +145,7 @@ export default function Step11() {
         id: 'enterprise-hosting',
         name: 'Enterprise Hosting',
         description: 'High-performance infrastructure for mission-critical apps',
-        price: '+$89/month',
+        price: '+$125/month',
         features: ['200GB SSD Storage', 'Unlimited Bandwidth', 'Unlimited Websites', 'Advanced SSL', 'Real-time Backups', 'Global CDN', 'DDoS Protection', 'Dedicated Support', '99.99% Uptime'],
         popular: false
       }

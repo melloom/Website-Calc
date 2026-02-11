@@ -115,7 +115,7 @@ export default function Step12() {
         id: 'basic-maintenance',
         name: 'Basic Maintenance',
         description: 'Essential updates and security monitoring',
-        price: '+$79/month',
+        price: '+$50/month',
         features: ['Monthly Updates', 'Security Monitoring', 'Backup Management', 'Email Support', 'Performance Reports', 'SSL Certificate Management'],
         recommended: false,
         supportLevel: 'Basic'
@@ -124,7 +124,7 @@ export default function Step12() {
         id: 'professional-maintenance',
         name: 'Professional Maintenance',
         description: 'Comprehensive care with priority support',
-        price: '+$149/month',
+        price: '+$100/month',
         features: ['Weekly Updates', 'Advanced Security', 'Daily Backups', 'Priority Support', 'Performance Optimization', 'Content Updates (2hrs/month)', 'Uptime Monitoring', 'SEO Monitoring'],
         recommended: true,
         supportLevel: 'Priority'
@@ -133,7 +133,7 @@ export default function Step12() {
         id: 'enterprise-maintenance',
         name: 'Enterprise Maintenance',
         description: 'Complete white-glove service for peace of mind',
-        price: '+$299/month',
+        price: '+$200/month',
         features: ['Real-time Updates', 'Enterprise Security', 'Real-time Backups', '24/7 Phone Support', 'Advanced Optimization', 'Unlimited Content Updates', 'Guaranteed Uptime', 'Dedicated Account Manager', 'Custom SLA'],
         recommended: false,
         supportLevel: '24/7'

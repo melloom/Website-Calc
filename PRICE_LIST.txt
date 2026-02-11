@@ -227,7 +227,7 @@ MONTHLY RECURRING SERVICES
 ├── Content Writing: $149/month
 ├── Social Media: $199/month
 ├── Email Marketing: $129/month
-├── Maintenance: $79/month
+├── Maintenance: $50/month
 ├── Analytics: $149/month
 ├── Security: $59/month
 ├── Speed Optimization: $99/month
@@ -256,20 +256,20 @@ HOSTING & MAINTENANCE
 
 HOSTING (MONTHLY)
 ├── Basic: $25/month
-├── Standard: $45/month
-├── Professional: $65/month
-├── Enterprise: $95/month
+├── Standard: $50/month
+├── Professional: $75/month
+├── Enterprise: $125/month
 
 BUDGET BUNDLE HOSTING:
 ├── Budget Starter: $25/month (Basic Hosting)
 ├── Budget Essential: $50/month ($25 Basic Hosting + $25 Backend & Automation)
-└── Enterprise: $89/month
+└── Enterprise: $125/month
 
 MAINTENANCE (MONTHLY)
 ├── None: $0/month
-├── Basic: $79/month
-├── Professional: $149/month
-└── Enterprise: $299/month
+├── Basic: $50/month
+├── Professional: $100/month
+└── Enterprise: $200/month
 
 ========================================
 CATEGORY-SPECIFIC BASE COSTS
@@ -370,13 +370,13 @@ BUDGET-FRIENDLY OPTIONS:
 ├── Budget Bundles: $400-$1,799
 ├── Simple Add-ons: $25-$50
 ├── Basic Hosting: $25/month
-└── Basic Maintenance: $79/month
+└── Basic Maintenance: $50/month
 
 PREMIUM OPTIONS:
 ├── Enterprise Bundles: $4,999-$7,999
 ├── Custom Solutions: $1,999-$4,999
 ├── Advanced Backend: $800-$1,200
-└── Enterprise Hosting: $89/month
+└── Enterprise Hosting: $125/month
 
 ========================================
 PRICING STRATEGY NOTES

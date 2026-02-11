@@ -655,7 +655,7 @@ export default function Step13() {
     'content-writing': { name: 'Content Writing', cost: 149 },
     'social-media-management': { name: 'Social Media', cost: 199 },
     'email-marketing': { name: 'Email Marketing', cost: 129 },
-    'website-maintenance': { name: 'Maintenance', cost: 79 },
+    'website-maintenance': { name: 'Maintenance', cost: 50 },
     'analytics-setup': { name: 'Analytics', cost: 149 },
     'security-package': { name: 'Security', cost: 59 },
     'speed-optimization': { name: 'Speed Optimization', cost: 99 },
@@ -681,10 +681,10 @@ export default function Step13() {
   };
 
   const hostingCostMap = {
-    'basic-hosting': { name: 'Basic Hosting', monthly: 50 },
-    'standard-hosting': { name: 'Standard Hosting', monthly: 45 },
-    'professional-hosting': { name: 'Professional Hosting', monthly: 65 },
-    'enterprise-hosting': { name: 'Enterprise Hosting', monthly: 95 }
+    'basic-hosting': { name: 'Basic Hosting', monthly: 25 },
+    'standard-hosting': { name: 'Standard Hosting', monthly: 50 },
+    'professional-hosting': { name: 'Professional Hosting', monthly: 75 },
+    'enterprise-hosting': { name: 'Enterprise Hosting', monthly: 125 }
   };
 
   const domainCostMap = {
@@ -694,9 +694,9 @@ export default function Step13() {
 
   const maintenanceCostMap = {
     'no-maintenance': { name: 'No Maintenance', monthly: 0 },
-    'basic-maintenance': { name: 'Basic Maintenance', monthly: 79 },
-    'professional-maintenance': { name: 'Professional Maintenance', monthly: 149 },
-    'enterprise-maintenance': { name: 'Enterprise Maintenance', monthly: 299 }
+    'basic-maintenance': { name: 'Basic Maintenance', monthly: 50 },
+    'professional-maintenance': { name: 'Professional Maintenance', monthly: 100 },
+    'enterprise-maintenance': { name: 'Enterprise Maintenance', monthly: 200 }
   };
 
   // Calculate costs
